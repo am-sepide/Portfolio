@@ -1,0 +1,15 @@
+body {
+  background: #f8e8a6;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.5;
+}
+h1 {
+  font-weight: bold;
+}
+a {
+  color: green;
+}
+.email a {
+  color: blue;
+}
